@@ -10,6 +10,9 @@
 <a href="mailto:chenpeihao1997@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
+<a href="https://www.facebook.com/profile.php?id=61551951486955">
+  <img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />
+</a>
 
 <br />
 <br />
