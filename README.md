@@ -27,7 +27,7 @@
 - 👨‍🏛 I am currently a student at **University of New Brunswick**.
 - 💻 Major is **Computer Science**.
 - 🌱 I'm currently learning **Software development and Data Science**. 
-- 🤔 My hobbies are **Marathon**.
+- 🤔 My hobbies are **Marathon and video games**.
 - 💼 I am detail-oriented and methodical in my work.
 - 💬 If you have any questions, **feel free to ask me**.
 
