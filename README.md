@@ -18,7 +18,7 @@
 - I like to use various **computer software** and build **beautiful webs and apps.**
 - I also enjoy **doing Machine Learning and Deep Learning Researches.**
 - I was initially a **quantitive reseacher**
-- Bit during this journey, I find that **programming** is also interesting.
+- But during this journey, I find that **programming** is also interesting.
 - That's how I fell in love with **coding**.
 
 
