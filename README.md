@@ -1,19 +1,11 @@
 ### Hey 👋, I'm Peihao Chen
 
-<a href="https://medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://leetcode-cn.com/u/Peihao_Chen/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+
 <a href="https://github.com/Caesarcph">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+<a href="https://www.linkedin.com/in/peihao-chen-caesar/">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
 <a href="mailto:chenpeihao1997@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
@@ -23,12 +15,11 @@
 <br />
 
 - I am a **Programming enthusiast** 
-- I like to use various **computer software** and build **beautiful blogs.**
-- I also enjoy **literature, reading, and writing.** 
-- Initially, I aspired to be a writer, but **reality led me to learn technology💻.**
-- Through this journey, I discovered **programming.**
-- Although I was **not interested** in it at first,
-- **I slowly fell in love with it. ❤️**
+- I like to use various **computer software** and build **beautiful webs and apps.**
+- I also enjoy **doing Machine Learning and Deep Learning Researches.**
+- I was initially a **quantitive reseacher**
+- Bit during this journey, I find that **programming** is also interesting.
+- That's how I fell in love with **coding**.
 
 <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
 
