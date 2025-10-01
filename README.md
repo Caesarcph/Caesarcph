@@ -27,10 +27,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student at **University of New Brunswick**.
-- 💻 Major is **Computer Science**.
+- 👨‍🏛 I am currently a student at **Saint Mary's University**.
+- 💻 Major is **Applied Science**.
 - 🌱 I'm currently learning **Software development and Data Science**. 
-- 🤔 My hobbies are **Marathon and video games**.
+- 🤔 My hobbies are **tennis and video games**.
 - 💼 I am detail-oriented and methodical in my work.
 - 💬 If you have any questions, **feel free to ask me**.
 
