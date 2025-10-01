@@ -31,7 +31,7 @@
 - 💻 Major is **Applied Science**.
 - 🌱 I'm currently learning **Software development and Data Science**. 
 - 🤔 My hobbies are **tennis and video games**.
-- 💼 I am detail-oriented and methodical in my work.
+- 💼 I am Part time working as a **software Engineer** at Mach85 Inc.
 - 💬 If you have any questions, **feel free to ask me**.
 
 **Languages and Tools:**  
