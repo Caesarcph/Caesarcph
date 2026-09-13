@@ -1,70 +1,98 @@
-### Hey 👋, I'm Peihao Chen
+<div align="center">
 
+# Peihao Chen
+### Software engineering · Applied ML · AI developer tools
 
-<a href="https://github.com/Caesarcph">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/peihao-chen-caesar/">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
-</a>
-<a href="mailto:chenpeihao1997@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61551951486955">
-  <img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />
-</a>
+I build software that connects models, data, and usable interfaces.
 
-<br />
-<br />
+[Quant Arena ↗](https://quantarenas.com) · [LinkedIn](https://www.linkedin.com/in/peihao-chen-caesar/) · [Explore my repositories](https://github.com/Caesarcph?tab=repositories)
 
-- I am a **Programming enthusiast** 
-- I like to use various **computer software** and build **beautiful webs and apps.**
-- I also enjoy **doing Machine Learning and Deep Learning Researches.**
-- I was initially a **quantitive reseacher**
-- But during this journey, I find that **programming** is also interesting.
-- That's how I fell in love with **coding**.
+</div>
 
+---
 
-**Talking about Personal Stuffs:**
+I'm a **BSc student at the University of Toronto Mississauga (expected 2028)**, based in the Greater Toronto Area. My background spans software development, computer vision, data science, and quantitative research.
 
-- 👨‍🏛 I am currently a student at **Saint Mary's University**.
-- 💻 Major is **Applied Science**.
-- 🌱 I'm currently learning **Software development and Data Science**. 
-- 🤔 My hobbies are **tennis and video games**.
-- 💼 I am Part time working as a **software Engineer** at Mach85 Inc.
-- 💬 If you have any questions, **feel free to ask me**.
+Previously at **Mach85**, I worked on a bridge-inspection system connecting UAV imagery and GPS data to ML inference and a C++/Qt application. These days, my projects focus on research tools, data-rich web applications, and making AI-assisted development easier to inspect and control.
 
-**Languages and Tools:**  
+## Projects I'm proud of
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/r.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Caesarcph&count_private=true&show_icons=true" alt="Peihao Chen" />
+### 01 / Quant Arena
+**Live research platform · Full-stack & data engineering**
 
-**Data Bases**
+A bilingual platform for exploring systematic strategies and MQL5 Expert Advisors. I built the web interface and data-publishing workflows to make strategy behavior, comparisons, and research assumptions easier to inspect.
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sqlite.svg"></code>
+- Interactive rankings, equity curves, strategy comparisons, and English/Chinese content.
+- Python data processing and backtesting workflows publish structured JSON to a lightweight JavaScript interface.
+- An EA research section brings together strategy explanations, parameter documentation, and backtest results.
 
-**Technical Skills**
+**Stack:** Python · JavaScript · HTML/CSS · Chart.js · JSON
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
+[Visit Quant Arena →](https://quantarenas.com) · [Browse the public site repository →](https://github.com/Caesarcph/StratArena-public)
 
-**Frameworks and Libraries**
+### 02 / ForgeFlow
+**Alpha · AI agents & developer infrastructure**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flask.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pytorch.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg"></code>
+A local-first multi-agent software delivery orchestrator. It turns repository documentation and task lists into project memory, then runs work through planning, coding, review, testing, and debugging stages.
 
+- Staged execution with retries, recovery, and model fallbacks.
+- Isolated workspaces, path boundaries, change inspection, and rollback support.
+- Run artifacts that preserve prompts, model outputs, logs, and diffs.
 
-**If you like this readme file, please give me a star! ❤️**
+**Stack:** TypeScript · Next.js · Fastify · Prisma/SQLite · OpenCode
+
+[Explore ForgeFlow →](https://github.com/Caesarcph/forgeflow)
+
+### 03 / PersonaChatAI
+**Frontend project · Interactive AI applications**
+
+A React and TypeScript interface for creating AI characters and managing conversations, with an emphasis on responsive interaction and maintainable frontend structure.
+
+- Character creation and conversation UI.
+- Virtualized message lists, debounced inputs, and schema-based form validation.
+- Zustand state management and Jest/React Testing Library tests.
+
+**Stack:** React · TypeScript · Zustand · Tailwind CSS · Zod
+
+[Explore PersonaChatAI →](https://github.com/Caesarcph/persona-chat-ai-frontend)
+
+### 04 / Multi-Agent Quant
+**Research prototype · Demo accounts only**
+
+An experimental system that gives independent LLM agents the same market snapshot, combines their structured outputs, and separates research decisions from MT5 demo execution.
+
+- Multi-model signal fusion and JSON-schema validation.
+- Separate research and execution responsibilities.
+- Risk checks, audit logs, and handling for failed agents.
+
+**Stack:** Python · LLM APIs/CLIs · JSON Schema · MetaTrader 5
+
+[Explore Multi-Agent Quant →](https://github.com/Caesarcph/multi-agent-quant) · [Related LLM/RL experiment →](https://github.com/Caesarcph/llm-rl-mt5-trading)
+
+<sub>Quant projects are for research and education, not investment advice or evidence of profitable live trading. ForgeFlow is an alpha tool; see its repository for current limitations.</sub>
+
+## Experience behind the projects
+
+| Focus | What I've worked on |
+| :--- | :--- |
+| **Software & computer vision** | **Mach85 · 2024–2025** — inspection pipelines, ResNet/ViT/DeepLabV3+, real-time C++/Qt interfaces, and automated model validation. |
+| **Data science** | **InvestingHaven · 2023–2025, part-time** — Transformer/GRU forecasting, feature pipelines, and rolling-window evaluation. |
+| **Quantitative research** | **Hengde · 2021–2023** — time-series modeling, distributed backtesting, and risk evaluation. |
+
+## Tools I work with
+
+**Software:** Python · C++/Qt · TypeScript/JavaScript · React · Node.js · SQL  
+**ML & data:** PyTorch · TensorFlow · scikit-learn · computer vision · time series · data pipelines  
+**Delivery:** Git · Linux · Docker · Azure · CI/CD  
+**AI workflows:** Codex · Claude Code · OpenCode · LangChain
+
+I use coding agents for implementation, debugging, documentation, and experimentation. I'm especially interested in the parts that still need deliberate engineering: context management, reproducible tests, clear execution boundaries, and reviewing what actually changed.
+
+## Currently
+
+- Studying at **University of Toronto Mississauga** and building out my software/ML portfolio.
+- Developing **Quant Arena** and exploring **local-first agent tooling** through ForgeFlow.
+- Open to **part-time software engineering, ML, and data roles** in the GTA or remotely in Canada.
+- Outside code: tennis and video games.
+
+[Let's connect on LinkedIn →](https://www.linkedin.com/in/peihao-chen-caesar/)
