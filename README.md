@@ -69,6 +69,18 @@ An experimental system that gives independent LLM agents the same market snapsho
 
 [Explore Multi-Agent Quant →](https://github.com/Caesarcph/multi-agent-quant) · [Related LLM/RL experiment →](https://github.com/Caesarcph/llm-rl-mt5-trading)
 
+### 05 / claude-mods
+**Developer tooling · Claude Code plugins**
+
+Two small plugins for Claude Code, published as a plugin marketplace.
+
+- **prompt-upgrade** asks a few multiple-choice questions about a rough prompt, rewrites it, and sends the improved version.
+- **auto-model** picks the model and thinking effort for each turn from how hard the prompt looks, falling back cleanly when a model is unavailable.
+
+**Stack:** TypeScript · Claude Code plugin hooks
+
+[Explore claude-mods →](https://github.com/Caesarcph/claude-mods)
+
 <sub>Quant projects are for research and education, not investment advice or evidence of profitable live trading. ForgeFlow is an alpha tool; see its repository for current limitations.</sub>
 
 ## Experience behind the projects
@@ -91,7 +103,7 @@ I use coding agents for implementation, debugging, documentation, and experiment
 ## Currently
 
 - Studying at **University of Toronto Mississauga** and building out my software/ML portfolio.
-- Developing **Quant Arena** and exploring **local-first agent tooling** through ForgeFlow.
+- Developing **Quant Arena** and exploring **AI developer tooling** through ForgeFlow and claude-mods.
 - Open to **part-time software engineering, ML, and data roles** in the GTA or remotely in Canada.
 - Outside code: tennis and video games.
 
